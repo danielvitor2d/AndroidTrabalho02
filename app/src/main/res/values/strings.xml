@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Atividade02</string>
+    <string name="adicionar_nova_disciplina">Adicionar nova disciplina</string>
+    <string name="disciplinas">Gerenciamento de Disciplinas</string>
+    <string name="editar_disciplina">Editar disciplina</string>
+    <string name="message_codigo">Código:</string>
+    <string name="criar_editar_disciplina">Criar/editar disciplina</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nome_da_disciplina">Nome da Disciplina</string>
+    <string name="carga_hor_ria">Carga Horária</string>
+    <string name="professor">Professor</string>
+    <string name="c_digo_da_disciplina">Código da disciplina</string>
+    <string name="message_professor">Professor:</string>
+    <string name="message_disciplina">Disciplina:</string>
+    <string name="message_carga_horaria">Carga Horária:</string>
+</resources>
